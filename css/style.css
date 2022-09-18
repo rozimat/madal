@@ -122,6 +122,6 @@ body{
 .close{
   position: absolute;
   top: 5%;
-  transform: translateX(500%);
+  transform: translateX(475%);
 
 }
